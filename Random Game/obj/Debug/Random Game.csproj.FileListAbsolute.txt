@@ -1,0 +1,7 @@
+C:\Users\Sherlon\Desktop\Respository\C#\C-sharp\Random Game\bin\Debug\Random Game.exe.config
+C:\Users\Sherlon\Desktop\Respository\C#\C-sharp\Random Game\bin\Debug\Random Game.exe
+C:\Users\Sherlon\Desktop\Respository\C#\C-sharp\Random Game\bin\Debug\Random Game.pdb
+C:\Users\Sherlon\Desktop\Respository\C#\C-sharp\Random Game\obj\Debug\Random Game.csprojAssemblyReference.cache
+C:\Users\Sherlon\Desktop\Respository\C#\C-sharp\Random Game\obj\Debug\Random Game.csproj.CoreCompileInputs.cache
+C:\Users\Sherlon\Desktop\Respository\C#\C-sharp\Random Game\obj\Debug\Random Game.exe
+C:\Users\Sherlon\Desktop\Respository\C#\C-sharp\Random Game\obj\Debug\Random Game.pdb
